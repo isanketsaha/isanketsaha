@@ -15,7 +15,7 @@ I'm a Software Engineer at [Optum](https://www.google.com/search?q=optum&oq=optu
 
 | ![Sanket GitHub Statistics](https://github-readme-stats.vercel.app/api?username=isanketsaha&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isanketsaha) |
 | --- | --- |
-![Sanket GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isanketsaha) 
+![Sanket GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isanketsaha) | ![LeetCode Stats](https://leetcode.card.workers.dev/isanket?theme=default&font=&extension=null)
 
 ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=isanketsaha)
 
