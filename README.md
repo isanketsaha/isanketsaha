@@ -19,5 +19,4 @@ I'm a Software Engineer at [Optum](https://www.google.com/search?q=optum&oq=optu
 
 ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=isanketsaha)
 
-
-
+[![](https://visitcount.itsvg.in/api?id=isanketsaha&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
