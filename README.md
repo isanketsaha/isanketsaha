@@ -1,8 +1,8 @@
 
 # Hello there ! 👋   I am Sanket Saha.  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
-I'm a Software Engineer at [Optum](https://www.google.com/search?q=optum&oq=optum&aqs=chrome..69i57j46i67i199i433i465j46i67i199i465l2j0i67i433i457j0i67j0i433i512j0i512l2.2103j0j7&sourceid=chrome&ie=UTF-8)
- (Fullstack Developer). A Learn-IT-All type of a person, an OPEN SOURCE Lover, a Digital NOMAD, and an individual driven by PASSION. 
+I'm a Data Engineer at [JPMC]([https://www.google.com/search?q=JPMC&oq=JPMC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMhUIAhAuGEMYxwEYsQMY0QMYgAQYigUyDQgDEAAYgwEYsQMYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEC4YQNIBCDEzNjlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8))
+ (Fullstack Developer & Data Engineer). A Learn-IT-All type of a person, an OPEN SOURCE Lover, a Digital NOMAD, and an individual driven by PASSION. 
 
  I am passionate about the future of technology and it's endless possibilities. Today, I am working to see this happen.
  I innovate, I solve problems and I use technology to make life better. It's the spark of technology that lights up the life in me. 
