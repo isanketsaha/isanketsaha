@@ -1,7 +1,7 @@
 # Hey, I'm Sanket Saha 👋
 
 Senior Data Engineer with 10 years across the stack — started as a Java fullstack developer
-(Spring Boot, Hybris, AEM), moved through backend and microservices, then went deep into
+(Spring Boot, Hybris, React), moved through backend and microservices, then went deep into
 data infrastructure. Today I build large-scale streaming pipelines, observability platforms,
 and Lakehouse architectures on Databricks, Spark, Kafka, and Delta Lake at JP Morgan Chase.
 
