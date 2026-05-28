@@ -1,22 +1,37 @@
+# Hey, I'm Sanket Saha 👋
 
-# Hello there ! 👋   I am Sanket Saha.  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+Senior Data Engineer with 10 years across the stack — started as a Java fullstack developer
+(Spring Boot, Hybris, AEM), moved through backend and microservices, then went deep into
+data infrastructure. Today I build large-scale streaming pipelines, observability platforms,
+and Lakehouse architectures on Databricks, Spark, Kafka, and Delta Lake at JP Morgan Chase.
 
-I'm a Data Engineer at [JPMC]([https://www.google.com/search?q=JPMC&oq=JPMC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMhUIAhAuGEMYxwEYsQMY0QMYgAQYigUyDQgDEAAYgwEYsQMYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEC4YQNIBCDEzNjlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
- (Fullstack Developer & Data Engineer). A Learn-IT-All type of a person, an OPEN SOURCE Lover, a Digital NOMAD, and an individual driven by PASSION. 
+Open source contributor. LeetCode grinder. Distributed systems nerd.
 
- I am passionate about the future of technology and it's endless possibilities. Today, I am working to see this happen.
- I innovate, I solve problems and I use technology to make life better. It's the spark of technology that lights up the life in me. 
- I am always seeking opportunities to work and upgrade myself, as well as giving back to the community especially with young and passionate 
- individuals in the technology space and all round space. I'm presently expanding my experience in the distributed system and microservices architecture.
- As an individual, I'm self-confident, creative, funny and naturally passionate. I'm a forward thinker, which others may find inspiring when working as 
- a team. 
+---
 
+### 🛠 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=delta&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-| ![Sanket GitHub Statistics](https://github-readme-stats.vercel.app/api?username=isanketsaha&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isanketsaha) |
-| --- | --- |
-![Sanket GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isanketsaha) | ![LeetCode Stats](https://leetcode.card.workers.dev/isanket?theme=default&font=&extension=null)
+---
 
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=isanketsaha)
+### 📊 GitHub Activity
 
-[![](https://visitcount.itsvg.in/api?id=isanketsaha&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![GitHub Streak](https://streak-stats.demolab.com/?user=isanketsaha&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/isanket?theme=default&font=Karma)
+
+---
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isanketsaha)
+[![GitHub followers](https://img.shields.io/github/followers/isanketsaha?style=flat-square&logo=github)](https://github.com/isanketsaha)
